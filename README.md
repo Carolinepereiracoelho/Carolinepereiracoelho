@@ -5,7 +5,7 @@
 🔧Procurando um estágio em uma empresa que valorize seus funcionários e a diversidade<br>
 🙎🏻‍♀️ Pronomes:Ela/Dela 🏳‍🌈<br>
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/carolinepereiracoelho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolinepereiracoelho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinepereiracoelho&layout=compact&langs_count=7&theme=dracula"/>
