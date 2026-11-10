@@ -1,9 +1,4 @@
-## Fala, galera! Sou a Caroline Coelho, apaixonada por inglês e por tecnologia <3
-
-👩‍🏫 Trabalho como professora de inglês <br>
-👩‍🎓 Estudando Análise e Desenvolvimento de Sistemas e focando no JavaScript💻 <br>
-🔧Procurando um estágio em uma empresa que valorize seus funcionários e a diversidade<br>
-🙎🏻‍♀️ Pronomes:Ela/Dela 🏳‍🌈<br>
+## Fala, galera! 
 
 <div align="left">
   <a href="https://github.com/carolinepereiracoelho">
